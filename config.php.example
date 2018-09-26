@@ -2,5 +2,7 @@
 
 return array(
     'api-key' => 'xxx',
-    'domain' => 'xxx'
+    'domain' => 'xxx',
+    'hook-url' => 'xxx',
+    'base-uri' => 'xxx'
 );
